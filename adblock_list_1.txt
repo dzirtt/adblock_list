@@ -1,0 +1,11 @@
+[Adblock Plus 2.0]
+! Version: 1
+! Title: adblock_list_1
+||kissanime.to/xyz/check.aspx
+||filmix.net/modules/uppod/uppod_flash.js?v2.0.27
+||d2psf55e0gm6yv.cloudfront.net/?efspd=618544
+||d2psf55e0gm6yv.cloudfront.net/_RXpBbnYmFS8ISTETJVNAdEJ0WkJjEDIBGDVHESMXDC52NC9wEwYv
+@@||rawgithub.com/dzirtt/adsBlockScripts/master/uppod_flash_patched.js
+d-h.st###UqbsZnnXr76aXJFagwkQBi9iYHiMDh
+theservice.ru##.modal-content
+filmix.net##.info-a
