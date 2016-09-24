@@ -1,1 +1,2 @@
-# adblock_list
+Custom adblock rules list
+update randomly
